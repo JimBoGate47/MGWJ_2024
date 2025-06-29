@@ -13,9 +13,12 @@ MonoBehaviour:
   m_Name: ArteRupestre3
   m_EditorClassIdentifier: 
   sprite: {fileID: 959732457, guid: f95e11364a1ece3469828d3f5ca237cf, type: 3}
-  description: "[3] Hay que recordar que hay rocas de muchos tama\xF1os de grano
-    y color por lo que no siempre es facil conseguir la misma textura ademas del
-    tono del resane al muro donde ir\xE1 colocado."
+  description: "[2] \"En el \xE1mbito de la conservaci\xF3n, se registraron y documentaron
+    los deterioros presentes en los cuatro conjuntos rupestres del sitio; se llevaron
+    a cabo en \xE1reas prioritarias procesos de conservaci\xF3n emergente como: limpieza
+    superficial, control de espec\xEDmenes vegetales superiores, remoci\xF3n de microorganismos,
+    eliminaci\xF3n de grafitis y estabilizaci\xF3n de fragmentos de pintura rupestre
+    en riesgo de desprendimiento\".   \t-Fragmento sitio web del INAH "
   value: 0
   droppable: 0
   itemType: 1

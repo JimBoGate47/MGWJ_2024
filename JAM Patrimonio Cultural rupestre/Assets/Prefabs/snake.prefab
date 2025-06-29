@@ -15,7 +15,7 @@ GameObject:
   - component: {fileID: 5513414658886599960}
   - component: {fileID: 7589690433151878531}
   m_Layer: 3
-  m_Name: snake
+  m_Name: Snake
   m_TagString: Enemy
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -30,9 +30,9 @@ Transform:
   m_GameObject: {fileID: 6980058404057085326}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 32.15, y: -2.4422283, z: 0}
-  m_LocalScale: {x: 5, y: 5, z: 5}
-  m_ConstrainProportionsScale: 0
+  m_LocalPosition: {x: 19.89, y: -2.5, z: 0}
+  m_LocalScale: {x: 4, y: 4, z: 4}
+  m_ConstrainProportionsScale: 1
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -162,7 +162,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 04386fc6733086b46b526172da19fb7a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  PlayerMovement: {fileID: 536022394813719993, guid: 97e4659c59bbe6b40a2d2ef04afacf15, type: 3}
+  PlayerMovement: {fileID: 0}
   JumpForce: 5
   detectionRange: 5
   Snake_Attack: -150

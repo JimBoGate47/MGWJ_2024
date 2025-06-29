@@ -13,8 +13,10 @@ MonoBehaviour:
   m_Name: ArteRupestre2
   m_EditorClassIdentifier: 
   sprite: {fileID: 959732457, guid: f95e11364a1ece3469828d3f5ca237cf, type: 3}
-  description: '[2] Este aglutinante se mezcla con una carga que por lo general puede
-    ser piedra del mismo color de la roca donde se ubica la pintura.'
+  description: "[2] La flora y la fauna fueron un elemento fundamental para la creaci\xF3n
+    de la iconografia rupestre. Se nota en los multiples petrograbados c\xF3mo sirvieron
+    de fuente de inspiraci\xF3n para la representaci\xF3n abstracta de las mismas.
+    Personalmente son de los que m\xE1s me gustan.  \t-Lili"
   value: 0
   droppable: 0
   itemType: 1
